@@ -49,7 +49,7 @@ void print(const char *common, int size)
 /*
 input:
 dilemma
-fixed lines
+soldier
 
 output:
 Common Letters: d i l e
