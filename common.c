@@ -45,3 +45,13 @@ void print(const char *common, int size)
         printf("%c ",common[i]);
     printf("\n%d Letters are common.", size);
 }
+
+/*
+input:
+dilemma
+fixed lines
+
+output:
+Common Letters: d i l e
+4 Letters are common.
+*/
