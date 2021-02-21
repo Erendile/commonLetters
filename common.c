@@ -9,7 +9,7 @@ int main()
 {
     char text[SIZE], text2[SIZE], common[SIZE];
     int count = 0;
-    printf("2 kelime giriniz:\n"), gets(text), gets(text2);
+    printf("Enter 2 texts:\n"), gets(text), gets(text2);
 
     for(int i = 0; i < text[i] != '\0'; i++)
     {
