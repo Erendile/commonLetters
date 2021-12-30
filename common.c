@@ -43,7 +43,7 @@ void print(const char *common, int size)
     printf("Common Letters: ");
     for(int i = 0; i < size; i++)
         printf("%c ",common[i]);
-    printf("\n%d Letters are common.", size);
+    printf("\nThere are %d common letters.", size);
 }
 
 /*
@@ -53,5 +53,5 @@ soldier
 
 output:
 Common Letters: d i l e
-4 Letters are common.
+There are 4 common letters.
 */
